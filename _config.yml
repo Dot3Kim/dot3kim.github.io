@@ -11,7 +11,7 @@ theme_settings :
   profile :
     image : assets/img/smile.png
     username : Dot3 Kim
-    description : creator of Grape-Theme! Grape-Theme is my first jekyll theme and you can customize this theme easily.
+    description : 크리에이터 어쩌구 저쩌구 creator of Grape-Theme! Grape-Theme is my first jekyll theme and you can customize this theme easily.
     experience :
       - start : 2017-05-03
         end : 2018-05-06
