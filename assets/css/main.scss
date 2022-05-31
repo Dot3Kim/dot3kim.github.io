@@ -17,7 +17,7 @@ $monospace: 'Cafe24SsurroundAir';
 
 
 
--webkit-user-select: all;
--moz-user-select: all;
--ms-user-select: all;
-user-select: all;
+@import "{{ site.theme }}";
+body {
+  font-family: "Cafe24SsurroundAir", Times, serif;
+}
