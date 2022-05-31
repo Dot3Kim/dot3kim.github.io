@@ -12,14 +12,11 @@
 }
 
 
-$sans-serif: 'Cafe24SsurroundAir';
-$monospace: 'Cafe24SsurroundAir';
-
 
 @import url('https://fonts.googleapis.com/css?family=Nanum+Gothic');
 
 
-//@import "{{ site.theme }}";
-//body {
-//  font-family: "Cafe24SsurroundAir", Times, serif;
-//}
+@import "{{ site.theme }}";
+body {
+  font-family: "Cafe24SsurroundAir", Times, serif;
+}
