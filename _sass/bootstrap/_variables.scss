@@ -280,8 +280,8 @@ $sans-serif: -apple-system, BlinkMacSystemFont, "Cafe24Ssurround", sans-serif !d
 $monospace: Monaco, Consolas, "Cafe24Ssurround", monospace !default;
 
 
-$font-family-sans-serif:      "Cafe24Ssurround" !default;
-$font-family-monospace:       "Cafe24Ssurround", monospace !default;
+$font-family-sans-serif:      "Cafe24Ssurround", sans-serif !default;
+$font-family-monospace:       "Cafe24Ssurround", sans-serif, monospace !default;
 $font-family-base:            $font-family-sans-serif !default;
 
 
@@ -296,7 +296,7 @@ $font-size-sm:                $font-size-base * .875 !default;
 $font-weight-lighter:         lighter !default;
 $font-weight-light:           300 !default;
 //$font-weight-normal:          400 !default;
-$font-weight-normal:          500 !default;
+$font-weight-normal:          400 !default;
 $font-weight-bold:            700 !default;
 $font-weight-bolder:          bolder !default;
 
