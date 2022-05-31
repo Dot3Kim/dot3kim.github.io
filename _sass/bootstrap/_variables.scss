@@ -275,10 +275,17 @@ $embed-responsive-aspect-ratios: join(
 //$font-family-sans-serif:      -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !default;
 //$font-family-monospace:       SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace !default;
 //$font-family-base:            $font-family-sans-serif !default;
+
 $font-family-sans-serif:      "Cafe24SsurroundAir" !default;
 $font-family-monospace:       "Cafe24SsurroundAir", monospace !default;
 $font-family-base:            $font-family-sans-serif !default;
-// stylelint-enable value-keyword-case
+
+/* system typefaces */
+$serif: Georgia, Times, serif !default;
+$sans-serif: -apple-system, BlinkMacSystemFont, "Nanum Gothic", "Roboto", "Segoe UI",
+  "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
+$monospace: Monaco, Consolas, "Lucida Console", monospace !default;
+
 
 
 
