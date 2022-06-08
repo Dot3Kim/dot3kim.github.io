@@ -10,16 +10,6 @@ comments : False
 
 ## Just Volume
 
-![Just Volume](https://drive.google.com/file/d/1vUl6eaIl57mROxGiQ48k5Sd9u3vcPILQ/view?usp=sharing)
-
-![이미지](https://drive.google.com/file/d/1vUl6eaIl57mROxGiQ48k5Sd9u3vcPILQ/view?usp=sharing)
-
-<img src="https://drive.google.com/file/d/1vUl6eaIl57mROxGiQ48k5Sd9u3vcPILQ/view?usp=sharing">
-
-
-
-
-
 ![sample image]({{ site.baseurl }}/assets/img/JustVolume.png)
 
 
