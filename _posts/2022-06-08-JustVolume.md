@@ -10,7 +10,7 @@ comments : False
 
 ## Just Volume
 
-![Just Volume](https://github.com/Dot3Kim/dot3kim.github.io/tree/main/_files/JustVolume/img1.png "Just Volume")
+![Just Volume](https://drive.google.com/file/d/1vUl6eaIl57mROxGiQ48k5Sd9u3vcPILQ/view?usp=sharing "Just Volume")
 
 
-[다운로드](https://github.com/Dot3Kim/dot3kim.github.io/tree/main/_files/JustVolume/JustVolume.exe)
+[다운로드](https://drive.google.com/file/d/1uXHeci5GyGHovfwWYKFYcnRE3s2H2D-4/view?usp=sharing)
