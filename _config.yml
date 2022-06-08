@@ -11,14 +11,14 @@ theme_settings :
   profile :
     image : assets/img/smile.png
     username : Dot3 Kim
-    description : 크리에이터 블라블라 Grape-Theme is my first jekyll theme and you can customize this theme easily.
+    description : 솔플 개발자
     experience :
-      - start : 2017-05-03
-        end : 2018-05-06
-        experience : company name, title
+      - start : ~
+        end : 2022-06-08
+        experience : 회사이름, 타이틀
     skills : 
-      - skill : HTML5 & CSS
-        value : 85  # Percent value
+      - skill : C#, .NET, WPF, WinForm
+        value : 55  # Percent value
         
   # Icons
   icons :
@@ -34,7 +34,7 @@ theme_settings :
     instagram:
 
   # Disqus
-  disqus_shortname :
+  disqus_shortname : dot3
 
 # Pagination
 paginate: 15
