@@ -10,7 +10,7 @@ comments : False
 
 ## Just Volume
 
-![sample image]({{ site.baseurl }}/assets/img/JustVolume.png)
+![이미지1]({{ site.baseurl }}/assets/img/JustVolume.png)
 
 
 
