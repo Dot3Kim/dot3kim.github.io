@@ -33,6 +33,16 @@
     url :  # Full URL
     image : # path: assets/project/
     date : 2019.06.09 - Developing
-    title : Dummy project
+    title : 더미 프로젝트
     summary : This is Dummy
-    description :  
+    description :
+
+- project :
+    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+    modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
+    url :  # Full URL
+    image : # path: assets/project/
+    date : 2019.06.09 - Developing
+    title : 몰라 프로젝트
+    summary : This is Dummy
+    description :
