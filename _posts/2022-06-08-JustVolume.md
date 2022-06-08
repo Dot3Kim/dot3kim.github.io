@@ -7,9 +7,6 @@ author: Dot3Kim
 comments : False
 ---
 
-
-## Just Volume
-
 ![이미지1]({{ site.baseurl }}/assets/img/JustVolume.png)
 
 간단한 볼륨 컨트롤 프로그램 입니다.
