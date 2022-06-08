@@ -15,4 +15,4 @@ comments : False
 
 
 
-[다운로드](https://drive.google.com/file/d/1uXHeci5GyGHovfwWYKFYcnRE3s2H2D-4/view?usp=sharing)
+[다운로드](https://drive.google.com/file/d/1uXHeci5GyGHovfwWYKFYcnRE3s2H2D-4/view?usp=sharing){:target="_blank"}
