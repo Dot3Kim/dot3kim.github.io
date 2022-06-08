@@ -13,15 +13,22 @@ theme_settings :
     username : Dot3 Kim
     description : 솔플 개발자
     experience :
-      - start : ~
+      - start : 2022-06-08
         end : 2022-06-08
-        experience : 회사이름, 타이틀
-      - start : ~~
+        experience : 둘리시스템
+      - start : 2022-06-08
         end : 2022-06-08
         experience : 똥짜테크
+      - start : 2022-06-08
+        end : 2022-06-08
+        experience : (주)길동시스템
     skills : 
       - skill : C#, .NET, WPF, WinForm
         value : 55  # Percent value
+      - skill : Delphi
+        value : 44  # Percent value
+      - skill : Python
+        value : 33  # Percent value
         
   # Icons
   icons :
