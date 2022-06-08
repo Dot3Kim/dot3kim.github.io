@@ -25,7 +25,7 @@ layout: page
   </section>
   <!-- career section -->
   <section id="career" class="row">
-    <!--
+    <!-- 경력 - 좌 -->
     <article class="exper col-12 col-md-6">
       <p class="title">경험</p>
       <ul class="exper-list">
@@ -37,9 +37,10 @@ layout: page
         {% endfor %}
       </ul>
     </article>
-    -->
+    
+    <!- 스킬 - 우 - 프로그래스바 -->
     <article class="skills col-12 col-md-6">
-      <p class="title">SKILLS</p>
+      <p class="title">스킬</p>
       <ul class="skill-list">
         {% for _ in profile.skills %}
         <li class="skill">
@@ -53,7 +54,9 @@ layout: page
         {% endfor %}
       </ul>
     </article>
+    
   </section>
 
+  <!-- 프로젝트 페이지 추가 -->
   {% include projects.html %}
 </div>
