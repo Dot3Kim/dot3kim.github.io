@@ -2,7 +2,7 @@
 layout: post
 title: Just Volume
 subtitle : Just Volume
-tags: [Software, Project, Download, Volume]
+tags: [프로젝트, 소프트웨어, 다운로드, 볼륨]
 author: Dot3Kim
 comments : False
 ---
