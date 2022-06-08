@@ -16,6 +16,9 @@ theme_settings :
       - start : ~
         end : 2022-06-08
         experience : 회사이름, 타이틀
+      - start : ~~
+        end : 2022-06-08
+        experience : 똥짜테크
     skills : 
       - skill : C#, .NET, WPF, WinForm
         value : 55  # Percent value
