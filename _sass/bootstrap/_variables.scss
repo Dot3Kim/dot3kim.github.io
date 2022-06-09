@@ -274,17 +274,22 @@ $embed-responsive-aspect-ratios: join(
 //$font-family-monospace:       SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace !default;
 //$font-family-base:            $font-family-sans-serif !default;
 
-$font-family-sans-serif:      -apple-system, BlinkMacSystemFont, "Cafe24Ssurround", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !default;
-$font-family-monospace:       SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace !default;
-$font-family-base:            $font-family-sans-serif !default;
-
 
 
 // 폰트
 /* system typefaces */
+/*
 $serif: Georgia, Times, serif !default;
 $sans-serif: -apple-system, BlinkMacSystemFont, "Cafe24Ssurround", "Roboto", "Segoe UI",
   "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
+$monospace: Monaco, Consolas, "Lucida Console", monospace !default;
+*/
+
+
+/* 구글 Noto Sans KR 적용 */
+$serif: Georgia, Times, serif !default;
+$sans-serif: -apple-system, BlinkMacSystemFont, "Noto Sans KR", "Roboto", "Segoe UI",
+"Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
 $monospace: Monaco, Consolas, "Lucida Console", monospace !default;
 
 
